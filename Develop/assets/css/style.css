@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Header styling at the top of the page with title and navigation bar*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,12 +23,12 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Navigation bar styling*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -45,7 +45,7 @@ header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Background picture at the top of the webpage.*/
 .hero {
     height: 800px;
     width: 100%;
@@ -54,7 +54,7 @@ header nav ul li a {
     background-size: cover;
     background-position: center;
 }
-
+/*3 main section of the page: SEO, Online Reputation, and Social Media Marketing.*/
 .content {
     width: 75%;
     display: inline-block;
@@ -69,7 +69,7 @@ header nav ul li a {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*SEO, Online Reputation, and Social Media Marketing images*/
 .content section img {
     max-height: 200px;
 }
@@ -90,7 +90,7 @@ header nav ul li a {
     margin-left: 25px;
 }
 
-
+/*Side bar with: Lead Generation, Brand Awarness, and Cost Managment.*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -111,13 +111,14 @@ aside {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Aside/ sidebar images*/
 .benefit-sub img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Footer at bottom of the page*/
 footer {
     padding: 30px;
     clear: both;
@@ -128,7 +129,7 @@ footer {
 footer h4 {
     font-size: 20px;
 }
-
+/*Styling for all paragraphs or header text*/
 p {
     font-size: 16px;
 }
