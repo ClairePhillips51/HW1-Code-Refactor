@@ -1,5 +1,8 @@
 # Horiseon Code Refactor Homework
 
+### Link to Project
+[Horiseon Project](https://clairephillips51.github.io/HW1-Code-Refactor/#social-media-marketing)
+
 ## Summary
 
 In this project I took the provided code and reformatted it to follow semantic html and also took the existing css and consolidated it and reordered it to follow the semantic html. This repository shows a few versions of the code I went through to get from what was provided to the final version. 
